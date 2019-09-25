@@ -8,3 +8,5 @@
 |Példák/Labor/2/Változók cseréje/különbséggel|4|i|valtozocsere.cpp|
 |Példák/Labor/2/Változók cseréje/xorral|6|i|valtozocsere.cpp|
 |Példák/Labor/2/Változók cseréje/szorzattal|6|i|valtozocsere.cpp|
+
+Összesen: 33 pont
