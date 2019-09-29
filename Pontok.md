@@ -10,5 +10,6 @@
 |Példák/Labor/2/Változók cseréje/szorzattal|6+1|i|valtozocsere.cpp|
 |Köny/Fejezet/4|8|i|-|
 |Köny/Drill/3|15+1|i|drill3.cpp|
+|Példák/Labor/2/szóhossz shifteléssel|4+1|i|szohossz.cpp|
 
-Összesen: 61 pont
+Összesen: 66 pont
