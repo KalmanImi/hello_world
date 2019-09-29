@@ -9,5 +9,6 @@
 |Példák/Labor/2/Változók cseréje/xorral|6+1|i|valtozocsere.cpp|
 |Példák/Labor/2/Változók cseréje/szorzattal|6+1|i|valtozocsere.cpp|
 |Köny/Fejezet/4|8|i|-|
+|Köny/Drill/3|15+1|i|drill3.cpp|
 
-Összesen: 45 pont
+Összesen: 61 pont
