@@ -12,4 +12,5 @@
 |Köny/Drill/3|15+1|i|drill3.cpp|
 |Példák/Labor/2/szóhossz shifteléssel|4+1|i|szohossz.cpp|
 |Köny/Drill/4|20+1|i|drill4.cpp|
-Összesen: 87 pont
+|Példák/Labor/3/Labdapattogás if nélkül/C++|12+1|i|labdapattogas.cpp|
+Összesen: 100 pont
