@@ -15,4 +15,5 @@
 |Példák/Labor/3/Labdapattogás if nélkül/C++|12+1|i|labdapattogas.cpp|
 |Köny/Fejezet/5|10|i|-|
 |Köny/Drill/5|25+1|i|drill5.cpp|
-Összesen: 136 pont
+|Köny/Fejezet/6|12|i|-|
+Összesen: 148 pont
