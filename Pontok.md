@@ -16,4 +16,5 @@
 |Köny/Fejezet/5|10|i|-|
 |Köny/Drill/5|25+1|i|drill5.cpp|
 |Köny/Fejezet/6|12|i|-|
-Összesen: 148 pont
+|Köny/Fejezet/7|14|i|-|
+Összesen: 162 pont
