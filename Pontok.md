@@ -19,4 +19,5 @@
 |Köny/Fejezet/7|14|i|-|
 |Példák/Labor/9/LZW\ binfás\ védés\ programja/c++ osztályosítás|12+1|i|binfa02.cpp|
 |Köny/Fejezet/8|16|i|-|
-Összesen: 189 pont
+|Köny/Drill/8|40+1|i|my.cpp, my.h, use.cpp, drill8_2.cpp, drill8_3.cpp|
+Összesen: 220 pont
