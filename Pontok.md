@@ -18,4 +18,5 @@
 |Köny/Fejezet/6|12|i|-|
 |Köny/Fejezet/7|14|i|-|
 |Példák/Labor/9/LZW\ binfás\ védés\ programja/c++ osztályosítás|12+1|i|binfa02.cpp|
-Összesen: 173 pont
+|Köny/Fejezet/8|16|i|-|
+Összesen: 189 pont
