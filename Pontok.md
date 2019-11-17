@@ -17,4 +17,5 @@
 |Köny/Drill/5|25+1|i|drill5.cpp|
 |Köny/Fejezet/6|12|i|-|
 |Köny/Fejezet/7|14|i|-|
-Összesen: 162 pont
+|Példák/Labor/9/LZW\ binfás\ védés\ programja/c++ osztályosítás|12+1|i|binfa02.cpp|
+Összesen: 173 pont
