@@ -71,17 +71,6 @@ void tordel(vector<char> &filebin,vector<string> &q,vector<int> &p) {
 	}
 }
 
-//Az utolsó elem törlése (ha szükséges)
-void uccsoelem(vector<string> &q, vector<int> &p) {
-	for (int i = 0; i < q.size(); i++) {
-		if (q[q.size()] == q[i]) {
-			q.pop_back();
-			p.pop_back();
-			break;
-		}
-	}
-}
-
 //A binfa ágvégeinek kiszűrése
 void szures(vector<string> &q, vector<int> &p, vector<string> &q1, vector<int> &p1) {
 	for (int i = 0; i < q.size(); i++) {
@@ -148,7 +137,6 @@ int main(int argc, char *argv[]){
 	char *filename = *++argv;	//A fájlnév a második argumentum	
 	bitek = beTolt(filename);	//Bitek betöltése karakterek formájában
 	tordel(bitek, tordelt, tordelt_melyseg);	//Tördelés
-	uccsoelem(tordelt, tordelt_melyseg);	//Utolsó töredék törlése
 	szures(tordelt, tordelt_melyseg, tordelt_szurt, tordelt_szurt_melyseg);		//Végek kiszűrése
 	int mely = melyseg(tordelt_szurt_melyseg);	//Mélység kisz
 	double atlag = avg(tordelt_szurt_melyseg);	//Átlag kisz
